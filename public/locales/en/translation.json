@@ -1,0 +1,8 @@
+{
+    "routes" : {
+        "profile" : "Profile",
+        "trading" : "Trading",
+        "signin" : "Sign in",
+        "signup" : "Sign up" 
+    }
+}
